@@ -27,8 +27,8 @@ Certifique-se de ter o Node.js e o Angular CLI instalados em seu sistema. Em seg
 
 ## Autores
 
-Heberty Vieira
-Bruna
+- Heberty Vieira
+- Bruna
 
 ## Licença
 
